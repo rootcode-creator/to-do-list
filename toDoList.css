@@ -1,0 +1,39 @@
+/* body{
+
+    text-align: center;
+} */
+
+
+
+.addTask{
+    background-color: rgb(194, 181, 165);
+    border-radius: 15px;
+    color: white;
+    padding: 5px;
+    border: none;
+    transition: 1s ease-in-out;
+}
+
+.addTask:hover{
+
+    box-shadow: 2px 1px 3px black;
+}
+
+.delete{
+    width: 50px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 15px;
+    margin-bottom: 8px;
+    transition: 1s ease-in-out;
+}
+.delete:hover{
+    box-shadow: 2px 1px 3px black;
+}
+
+h1{
+    text-align: center;
+}
